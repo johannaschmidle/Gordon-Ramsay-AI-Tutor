@@ -13,17 +13,24 @@ I have created three versions
 1. **Basic**: This is just the plain code in a Python environment
 2. **Medium**: This is similar logic code to basic but I have used the python _panel_ library to make an interactive chat window
 3. **App**: I used a streamlit template to create an app that is hosted online so you do not have to download and run the code yourself. You can just try the app version
-   
+
 ## How to Run the Basic Version
 - Add a file called "ApiKey.txt" that holds your own personal API key to the same file on your computer
 - When you want to use the AI tutor just run all the code blocks and respond to the prompts
 - When you wish to **stop**, just type quit into the text box and you will exit the chat
+<p align="center">
+    <img src="RamsayBasicSC.png" alt="Tableau Dashboard" width="700">
+</p>
   
 ## How to Run the Medium Version
 - The usage is similar to the previous version
 - Add a file called "ApiKey.txt" that holds your own personal API key to the same file on your computer
 - When you want to use the AI tutor just run all the code blocks and the code will create a new window with the interactive chat display
 - When you wish to **stop**, just exit the window
+<p align="center">
+    <img src="RamsayMediumSC.png" alt="Tableau Dashboard" width="500">
+</p>
   
 ## App Version 
+**Note** that I used a template for this from Streamlit Share. So this is not my code I included this so that users could see how the AI Tutor behaves, even if they do not wish to download files and run it on their machine.
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-8eqzu4tw5mc.streamlit.app/)
