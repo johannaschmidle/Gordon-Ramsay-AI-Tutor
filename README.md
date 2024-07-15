@@ -20,7 +20,7 @@ I have created three versions
 - When you wish to **stop**, just type quit into the text box and you will exit the chat
 Here is a screenshot of what it will look like:
 <p align="center">
-    <img src="RamsayBasicSC.png" alt="Tableau Dashboard" width="700">
+    <img src="RamsayBasicSC.png" alt="Tableau Dashboard" width="900">
 </p>
   
 ## How to Run the Medium Version
@@ -30,7 +30,7 @@ Here is a screenshot of what it will look like:
 - When you wish to **stop**, just exit the window
 Here is a screenshot of what it will look like:
 <p align="center">
-    <img src="RamsayMediumSC.png" alt="Tableau Dashboard" width="700">
+    <img src="RamsayMediumSC.png" alt="Tableau Dashboard" width="900">
 </p>
   
 ## App Version 
