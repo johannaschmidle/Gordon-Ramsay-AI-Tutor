@@ -18,6 +18,7 @@ I have created three versions
 - Add a file called "ApiKey.txt" that holds your own personal API key to the same file on your computer
 - When you want to use the AI tutor just run all the code blocks and respond to the prompts
 - When you wish to **stop**, just type quit into the text box and you will exit the chat
+Here is a screenshot of what it will look like:
 <p align="center">
     <img src="RamsayBasicSC.png" alt="Tableau Dashboard" width="700">
 </p>
@@ -27,8 +28,9 @@ I have created three versions
 - Add a file called "ApiKey.txt" that holds your own personal API key to the same file on your computer
 - When you want to use the AI tutor just run all the code blocks and the code will create a new window with the interactive chat display
 - When you wish to **stop**, just exit the window
+Here is a screenshot of what it will look like:
 <p align="center">
-    <img src="RamsayMediumSC.png" alt="Tableau Dashboard" width="500">
+    <img src="RamsayMediumSC.png" alt="Tableau Dashboard" width="700">
 </p>
   
 ## App Version 
