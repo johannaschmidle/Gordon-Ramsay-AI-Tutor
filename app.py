@@ -1,11 +1,12 @@
 import panel as pn
 import openai
 
-API_KEY = open("ApiKey.txt", "r").read().strip()
-openai.api_key = API_KEY
-
 # Define the initial context
 context =  open("RamsayPersonality.txt", "r").read()
+api_key_input = pn.widgets.PasswordInput(name='OpenAI API Key', placeholder='Enter your OpenAI API key...')
+
+input_text = pn.widgets.TextInput(name='Talk to Chef Ramsay', placeholder='Type here...')
+output_text = pn.pane.Markdown("")
 
 # Initialize chat log with the initial context and the greeting
 chat_log = [{'role': 'assistant', 'content': context}]
