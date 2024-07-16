@@ -6,7 +6,7 @@ You will be asked about what topic you would like to learn. Once you have chosen
 2. **Game to learn TOPIC**, where RamsayGPT will create a game to help you learn the topic
 3. **Explain TOPIC**, where RamsayGPT will give an explanation of the topic
    
-Feel free to choose the option that best fits your personal learning style! But be careful, RamsayGPT gets impatient if you don't answer the prompts correctly :(
+Feel free to choose the option that best fits your learning style! But be careful, RamsayGPT gets impatient if you don't answer the prompts correctly :(
 
 ## Versions
 I have created three versions 
