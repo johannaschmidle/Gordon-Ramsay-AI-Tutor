@@ -38,4 +38,5 @@ Here is a screenshot of what it will look like:
   
 ## App Version 
 **Note** that I used a template for this from Streamlit Share. So this is not my code I included this so that users could see how the AI Tutor behaves, even if they do not wish to download files and run it on their machine.
+
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-8eqzu4tw5mc.streamlit.app/)
