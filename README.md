@@ -28,7 +28,6 @@ Here is a screenshot of what it will look like:
 ## How to Run the Medium Version
 - Download the entire repository
 - Open the folder in a Python environment and then open the file [RamsayTutor.ipynb](https://github.com/johannaschmidle/Gordon-Ramsay-AI-Tutor/blob/main/RamsayTutor.ipynb)
-- The usage is similar to the previous version
 - Add a file called "ApiKey.txt" that holds your own personal API key to the same folder on your computer
 - When you want to use the AI tutor just run all the code blocks and the code will create a new window with the interactive chat display
 - When you wish to **stop**, just exit the window
