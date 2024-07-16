@@ -15,6 +15,8 @@ I have created three versions
 3. **App**: I used a streamlit template to create an app that is hosted online so you do not have to download and run the code yourself. You can just try the app version
 
 ## How to Run the Basic Version
+- Download the entire repository
+- Open the folder in a Python environment and then open the file [RamsayTutorBasic.ipynb](https://github.com/johannaschmidle/Gordon-Ramsay-AI-Tutor/blob/main/RamsayTutorBasic.ipynb)
 - Add a file called "ApiKey.txt" that holds your own personal API key to the same folder on your computer
 - When you want to use the AI tutor just run all the code blocks and respond to the prompts
 - When you wish to **stop**, just type quit into the text box and you will exit the chat
@@ -24,6 +26,8 @@ Here is a screenshot of what it will look like:
 </p>
   
 ## How to Run the Medium Version
+- Download the entire repository
+- Open the folder in a Python environment and then open the file [RamsayTutor.ipynb](https://github.com/johannaschmidle/Gordon-Ramsay-AI-Tutor/blob/main/RamsayTutor.ipynb)
 - The usage is similar to the previous version
 - Add a file called "ApiKey.txt" that holds your own personal API key to the same folder on your computer
 - When you want to use the AI tutor just run all the code blocks and the code will create a new window with the interactive chat display
